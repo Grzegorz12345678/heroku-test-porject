@@ -8,7 +8,7 @@ public class CloudController {
 
     @RequestMapping("/")
     public String index() {
-        return "WWSIS 5819";
+        return "WWSIS 5819  ";
     }
 
 }
